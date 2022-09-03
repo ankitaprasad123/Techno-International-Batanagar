@@ -1,0 +1,23 @@
+h1{
+    font-size: 20;
+    color: white;
+    text-align: center;
+    
+}
+.ab{
+     color: aqua;
+     text-align:center;
+    word-spacing:normal;
+    letter-spacing: 3px;
+}
+#t1{
+    color: rgb(147, 165, 42);
+}
+.center
+{
+    color: brown;
+    font-size: 50%;
+}
+.center:hover{
+    color: blue;
+}
